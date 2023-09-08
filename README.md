@@ -4,6 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chromasiv" alt="chromasiv" /> </p>
 
 
-# 📩 Latest Blog Posts // You can name it whatever you want.
+# 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
