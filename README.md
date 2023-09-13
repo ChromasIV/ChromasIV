@@ -5,7 +5,7 @@
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Armored Core VI, My Opinions](https://chromasgaming.com/2023/09/09/armored-core-vi/)
+- [Armored Core VI](https://chromasgaming.com/2023/09/09/armored-core-vi/)
 - [The Games I Can’t-Wait to Play](https://chromasgaming.com/2023/08/18/the-games-i-cant-wait-to-play/)
 - [Diablo IV Experiencing the Open Beta](https://chromasgaming.com/2023/03/30/diabloivopen-beta/)
 - [Diablo IV: First Impressions](https://chromasgaming.com/2023/03/21/diablo-iv-impression/)
