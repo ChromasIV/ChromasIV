@@ -30,9 +30,9 @@ Hi there, I'm Thomas! I'm passionate about video games and programming, particul
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reflections on a Developer’s Journey](https://chromasgaming.com/reflections-on-a-developers-journey/)
 - [The Evolution of Bard AI: The Future is Bright and Integrated](https://chromasgaming.com/the-evolution-of-bard-ai-the-future-is-bright-and-integrated/)
 - [The MMORPG Throne And Liberty A Letter](https://chromasgaming.com/the-mmorpg-throne-and-liberty-a-letter/)
 - [Armored Core VI, My Opinions](https://chromasgaming.com/armored-core-vi/)
 - [The Games I Can’t-Wait to Play](https://chromasgaming.com/the-games-i-cant-wait-to-play/)
-- [Diablo IV Experiencing the Open Beta](https://chromasgaming.com/diabloivopen-beta/)
 <!-- BLOG-POST-LIST:END -->
