@@ -30,9 +30,9 @@ Hi there, I'm Thomas! I'm passionate about video games and programming, particul
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Hosting and Securing WordPress on OpenLiteSpeed](https://chromasgaming.com/hosting-and-securing-your-wordpress-website/)
 - [Supercharging WordPress: The OpenLiteSpeed Connection](https://chromasgaming.com/supercharging-wordpress-the-openlitespeed-connection/)
 - [The MMORPG Throne And Liberty A Letter #2](https://chromasgaming.com/throne-and-liberty-producers-letter-part-2/)
 - [Reflections on a Developer’s Journey](https://chromasgaming.com/reflections-on-a-developers-journey/)
 - [The Evolution of Bard AI: The Future is Bright and Integrated](https://chromasgaming.com/the-evolution-of-bard-ai-the-future-is-bright-and-integrated/)
+- [The MMORPG Throne And Liberty A Letter](https://chromasgaming.com/the-mmorpg-throne-and-liberty-a-letter/)
 <!-- BLOG-POST-LIST:END -->
