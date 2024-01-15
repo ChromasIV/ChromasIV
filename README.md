@@ -30,9 +30,9 @@ Hi there, I'm Thomas! I'm passionate about video games and programming, particul
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Predecessor Game Review 2024 Anticipation](https://chromasgaming.com/predecessor-game-review-2024-anticipation/)
 - [My Thoughts on Path of Exile: Affliction](https://chromasgaming.com/my-thoughts-on-path-of-exile-affliction/)
 - [Throne and Liberty Item Weapons Overview](https://chromasgaming.com/throne-and-liberty-item-weapons-overview/)
 - [Throne and Liberty It’s Finally Here!](https://chromasgaming.com/throne-and-liberty-its-finally-here/)
 - [Wayfinder First Impressions](https://chromasgaming.com/wayfinder-first-impressions/)
-- [Hosting and Securing WordPress on OpenLiteSpeed](https://chromasgaming.com/hosting-and-securing-your-wordpress-website/)
 <!-- BLOG-POST-LIST:END -->
