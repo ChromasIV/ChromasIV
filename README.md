@@ -30,9 +30,9 @@ Hi there, I'm Thomas! I'm passionate about video games and programming, particul
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Two Too Few? Thoughts on the Disney Lorcana Two-Game Format](https://chromasgaming.com/two-game-format/)
 - [The Predecessor Experience: Ranked Mode Insights](https://chromasgaming.com/the-predecessor-experience-ranked-mode-insights/)
 - [Disney Lorcana: A Fresh Wave in the TCG Scene](https://chromasgaming.com/disney-lorcana-a-fresh-wave-in-the-tcg-scene/)
 - [Diving into Last Epoch: A Personal Take on a New ARPG Gem](https://chromasgaming.com/diving-into-last-epoch-a-personal-take-on-a-new-arpg-gem/)
 - [GLYTCH Energy Review](https://chromasgaming.com/glytch-energy-review/)
-- [Predecessor Game Review 2024 Anticipation](https://chromasgaming.com/predecessor-game-review-2024-anticipation/)
 <!-- BLOG-POST-LIST:END -->
