@@ -32,7 +32,7 @@ Hi there, I'm Thomas! I'm passionate about video games and programming, particul
 <!-- BLOG-POST-LIST:START -->
 - [Spears Up! Get Hyped for the Huntress in Path of Exile 2: Dawn of the Hunt](https://chromasgaming.com/poe2-dawn-of-the-hunt/)
 - [Path of Exile 2 Early Access: First Impressions](https://chromasgaming.com/path-of-exile-2-early-access-first-impressions/)
-- [Thoughts on the Disney Lorcana Two-Game Format](https://chromasgaming.com/two-game-format/)
+- [Two Games Not Enough? Examining Disney Lorcana Competitive Format](https://chromasgaming.com/disney-lorcana-competitive-format/)
 - [The Predecessor Experience: Ranked Mode Insights](https://chromasgaming.com/the-predecessor-experience-ranked-mode-insights/)
 - [Disney Lorcana: A Fresh Wave in the TCG Scene](https://chromasgaming.com/disney-lorcana-a-fresh-wave-in-the-tcg-scene/)
 <!-- BLOG-POST-LIST:END -->
