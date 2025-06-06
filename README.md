@@ -13,7 +13,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chromasiv&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chromasiv&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 ## About me
-Hi there, I'm Thomas! I'm passionate about video games and programming, particularly in Kotlin. I'm a full-stack back-end developer that has taken a huge interest in Kotlin. I'm a proud father of three kids and have an amazing wife who supports my interests. I love sharing my knowledge and experience through my writing, videos, and code. Feel free to explore my work and connect with me! 
+Hi there, I'm Thomas! I'm passionate about video games and programming, particularly in Kotlin. I'm a full-stack back-end developer that has taken a huge interest in Kotlin. I'm a proud father of three kids. I love sharing my knowledge and experience through my writing, videos, and code. Feel free to explore my work and connect with me! 
 <!--Intro start-->
 - 🔭 I’m currently working on [KTweet](https://github.com/ChromasIV/KTweet)
 
