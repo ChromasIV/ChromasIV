@@ -30,9 +30,9 @@ Hi there, I'm Thomas! I'm passionate about video games and programming, particul
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Game-Changers: The Lorcana ‘Fabled’ Cards](https://chromasgaming.com/top-5-game-changers-fabled-cards/)
 - [Lorcana 2026 Roadmap: Toy Story, Fabled Set &amp; Iconic Rarity Revealed](https://chromasgaming.com/lorcana-roadmap-2026-reveals/)
 - [Introducing Statcana: The Disney Lorcana Match Tracker!](https://chromasgaming.com/introducing-statcana-the-disney-lorcana-match-tracker/)
 - [My Go-To Gaming Fuel: Why Coffee Beats Energy Drinks](https://chromasgaming.com/my-go-to-gaming-fuel-why-coffee-beats-energy-drinks/)
 - [Future of Lorcana: Waiting for News, Dreaming of Celebration](https://chromasgaming.com/future-of-lorcana-waiting-for-news/)
-- [Spears Up! Get Hyped for the Huntress in Path of Exile 2: Dawn of the Hunt](https://chromasgaming.com/poe2-dawn-of-the-hunt/)
 <!-- BLOG-POST-LIST:END -->
