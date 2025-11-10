@@ -30,9 +30,9 @@ Hi there, I'm Thomas! I'm passionate about video games and programming, particul
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Whispers in the Well: Emerald’s New Powerhouses and OTK Threats](https://chromasgaming.com/whispers-of-the-well-emerald-cards-review/)
 - [Whispers in the Well: Amethyst’s New Bag of Tricks and Powerful Control](https://chromasgaming.com/whispers-in-the-well-amethysts-new-bag-of-tricks-and-powerful-control/)
 - [Whispers in the Well: A First Look at Amber’s Game-Changing Cards](https://chromasgaming.com/witw-a-first-look-at-amber/)
 - [Top 5 Game-Changers: The Lorcana ‘Fabled’ Cards](https://chromasgaming.com/top-5-game-changers-fabled-cards/)
 - [Lorcana 2026 Roadmap: Toy Story, Fabled Set &amp; Iconic Rarity Revealed](https://chromasgaming.com/lorcana-roadmap-2026-reveals/)
-- [Introducing Statcana: The Disney Lorcana Match Tracker!](https://chromasgaming.com/introducing-statcana-the-disney-lorcana-match-tracker/)
 <!-- BLOG-POST-LIST:END -->
