@@ -30,9 +30,9 @@ Hi there, I'm Thomas! I'm passionate about video games and programming, particul
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ditch the Backpack Flyers: The Simplest Kids Party RSVP Solution](https://chromasgaming.com/ditch-the-backpack-flyers-the-simplest-kids-party-rsvp-solution/)
 - [Sapphire’s New Clues: Analyzing the Ramp &amp; Control of Whispers in the Well](https://chromasgaming.com/lorcana-whispers-in-the-well-sapphire-review/)
 - [Ruby’s Power Play: A Deep Dive into the Aggressive Cards of Whispers in the Well](https://chromasgaming.com/ruby-card-review-whispers-in-the-well/)
 - [Whispers in the Well: Emerald’s New Powerhouses and OTK Threats](https://chromasgaming.com/whispers-of-the-well-emerald-cards-review/)
 - [Whispers in the Well: Amethyst’s New Bag of Tricks and Powerful Control](https://chromasgaming.com/whispers-in-the-well-amethysts-new-bag-of-tricks-and-powerful-control/)
-- [Whispers in the Well: A First Look at Amber’s Game-Changing Cards](https://chromasgaming.com/witw-a-first-look-at-amber/)
 <!-- BLOG-POST-LIST:END -->
