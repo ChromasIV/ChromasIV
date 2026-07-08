@@ -30,8 +30,8 @@ Hi there, I'm Thomas! I'm passionate about video games and programming, particul
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Ditch the Backpack Flyers: The Simplest Kids Party RSVP Solution](https://chromasgaming.com/ditch-the-backpack-flyers-the-simplest-kids-party-rsvp-solution/)
 - [Disney Lorcana Set 13 Item Shifting Revealed – Weekly Lorecast Recap](https://chromasgaming.com/lorcana-set-13-item-shifting-lorecast-recap/)
+- [Ditch the Backpack Flyers: The Simplest Kids Party RSVP Solution](https://chromasgaming.com/ditch-the-backpack-flyers-the-simplest-kids-party-rsvp-solution/)
 - [Lorcana Attack of the Vine Pre-Release Promos Guide](https://chromasgaming.com/lorcana-attack-of-the-vine-pre-release-promos-guide/)
 - [Lorcana Team Card: Hype &amp; Mechanics Breakdown](https://chromasgaming.com/lorcana-team-card-hype-mechanics-breakdown/)
 - [Disney Lorcana Roadmap from 2026 to 2027: Upcoming Sets Revealed](https://chromasgaming.com/disney-lorcana-roadmap-from-2026-to-2027-upcoming-sets-revealed/)
