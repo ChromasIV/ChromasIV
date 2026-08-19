@@ -30,9 +30,9 @@ Hi there, I'm Thomas! I'm passionate about video games and programming, particul
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ink Inc Open $3K: Emerald Amber Aggro Claims Championship](https://chromasgaming.com/ink-inc-open-3k-emerald-amber-aggro-claims-championship/)
 - [Disney Lorcana Set 13 Control Decks: Ducktectives &amp; Bots 4.0](https://chromasgaming.com/disney-lorcana-set-13-control-decks-ducktectives-bots-4-0/)
 - [Disney Lorcana Set 13 Midrange Decks: Steelsong &amp; Amber Amethyst](https://chromasgaming.com/disney-lorcana-set-13-midrange-decks-steelsong-amber-amethyst/)
 - [Disney Lorcana Set 13 Aggro Decks: Amber Emerald Elinor &amp; Amber Ruby Boost](https://chromasgaming.com/disney-lorcana-set-13-aggro-decks-amber-emerald-elinor-amber-ruby-boost/)
 - [Lorcana Set 13 News: Curator’s Collection, Collection Quest Events &amp; D23 Championship VIP](https://chromasgaming.com/lorcana-set-13-news-curators-collection-collection-quest-events-d23-championship-vip/)
-- [Disney Lorcana Set 13 Rules Clarifications: Duo Shift, Pre-Release Dates &amp; Gen Con Announcements](https://chromasgaming.com/disney-lorcana-set-13-rules-clarifications-duo-shift-pre-release-dates-gen-con-announcements/)
 <!-- BLOG-POST-LIST:END -->
